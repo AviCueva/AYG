@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="36198a28-65bb-4fa7-9cd3-f772d428a368" name="MEAN-lightsail" url="http://34.209.120.53">
+        <fileTransfer host="34.209.120.53" port="22" privateKey="C:\Users\Avi\Documents\LightsailDefaultKey-us-west-2.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
